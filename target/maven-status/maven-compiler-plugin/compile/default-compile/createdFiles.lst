@@ -1,0 +1,13 @@
+equipmgnt\AbstractEvent$1.class
+equipmgnt\PolicyHandler.class
+equipmgnt\StockIncreased.class
+equipmgnt\Equipment.class
+equipmgnt\StockDecreased.class
+equipmgnt\config\kafka\KafkaProcessor.class
+equipmgnt\ApprovalObtained.class
+equipmgnt\EquipmentController.class
+equipmgnt\EquipmentRepository.class
+equipmgnt\AbstractEvent.class
+equipmgnt\CancelRequested.class
+equipmgnt\EquipmentApplication.class
+equipmgnt\EquipmentRegistered.class
